@@ -1,0 +1,184 @@
+[
+    {
+    
+        "title": "True or false? Mice live for up to 10 years.",
+           "choices":[
+              "True",
+              "False"
+          ],
+      
+          "correctAnswer":2
+          },
+             {
+      
+    
+    "title": "What is the largest type of ‘big cat’ in the world?",
+           "choices":[
+              "Lion",
+              "Cheetah",
+              "Tiger",
+              "Cat"
+          ],
+      
+          "correctAnswer":3
+          },
+    
+    
+          {
+      
+    "title": "Are butterflies insects?",
+           "choices":[
+              "Yes",
+              "NO"
+          ],
+      
+          "correctAnswer":1
+          },
+      
+          {
+            "title": "Bats are mammals.",
+            "choices":[
+               "False",
+               "True"
+           ],
+       
+           "correctAnswer":2
+           },
+       
+           {
+            "title": "What is the fastest land animal in the world?",
+            "choices":[
+               "Tiger",
+               "Lion",
+               "Dog",
+               "Cheetah"
+           ],
+       
+           "correctAnswer":4
+           },
+       
+           {
+
+            "title": "A ‘doe’ is what kind of animal?",
+            "choices":[
+               "A male deer",
+               "A female deer",
+               "A baby deer",
+               "A rain deer"
+           ],
+       
+           "correctAnswer":2
+           },
+       
+           {
+            "title": "Groups of lions are known as what?",
+            "choices":[
+               "Prides",
+               "Gang",
+               "group",
+               "company"
+           ],
+       
+           "correctAnswer":1
+           },
+       
+           {
+            "title": "How many pairs of wings does a bee have?",
+            "choices":[
+               "3",
+               "1",
+               "2",
+               "4"
+           ],
+       
+           "correctAnswer":3
+           },
+       
+           {
+     
+            "title": "What is the largest land animal in the world?",
+            "choices":[
+               "Rhino",
+               "Hippopotamus",
+               "Giraffe",
+               "Elephant"
+           ],
+       
+           "correctAnswer":4
+           },
+       
+           {
+            "title": "What is a baby frog called?",
+            "choices":[
+               "Frog",
+               "Child",
+               "Tadpole",
+               "Curb"
+           ],
+       
+           "correctAnswer":3
+           },
+       
+           {
+            "title": "Where does a pig live?",
+            "choices":[
+               "Sty",
+               "Barn",
+               "Farm",
+               "Stead"
+           ],
+       
+           "correctAnswer":1
+           },
+       
+           {
+            "title": "Which animal is known as the ‘Ship of the Desert?",
+            "choices":[
+               "Horse",
+               "Lion",
+               "Camel",
+               "Goat"
+           ],
+       
+           "correctAnswer":3
+           },
+       
+           {
+            "title": "How many legs does a spider have?",
+            "choices":[
+               6,
+               8,
+               4,
+               2
+           ],
+       
+           "correctAnswer":2
+           },
+       
+           {
+            "title": "What are baby goats called?",
+            "choices":[
+               "Babies",
+               "Kids",
+               "Infants",
+               "Younglins"
+           ],
+       
+           "correctAnswer":2
+           },
+       
+           {
+            "title": "What is the name of a male chicken? ",
+            "choices":[
+               "Hen",
+               "Cockerel",
+               "Rooster",
+               "Fowl"
+           ],
+       
+           "correctAnswer":3
+           }
+       
+           
+                
+]

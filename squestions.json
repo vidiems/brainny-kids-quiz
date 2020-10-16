@@ -1,0 +1,199 @@
+[
+{
+
+    "title": "Which animal lays eggs?",
+       "choices":[
+          "Dog",
+          "Cat",
+          "Duck",
+          "Sheep"
+      ],
+  
+      "correctAnswer":3
+      },
+         {
+  
+  "title":"A male cow is called?",
+          "choices":[
+                  "a. Ox",
+                "b. Dog",
+                "c. Sheep",
+                "d. Monkey"
+  
+          ],
+          "correctAnswer":1
+      },
+      {
+  
+  "title":"All animals need food, air, and ____ to survive.",
+          "choices":[
+        "a. House",
+          "b. Water",
+          "c. Chocolate",
+          "d. Fruits"
+  
+          ],
+          "correctAnswer":2
+      },
+      {
+  
+  
+  "title":"Which one is a fur-bearing animal?",
+          "choices":[
+           "a. Hen",
+          "b. Crocodile",
+          "c. Tortoise",
+          "d. Cat"
+  
+          ],
+          "correctAnswer":4
+      },
+      {
+  
+  
+  "title":"What is Earth’s only natural satellite?",
+          "choices":[
+         "a. Sun",
+          "b. Mars",
+          "c. Venus",
+          "d. Moon"
+  
+          ],
+          "correctAnswer":4
+      },
+      {
+  
+  "title":"The tree has a branch filled with green _____.",
+          "choices":[
+           "a. Hair",
+          "b. Root",
+          "c. Leaves",
+          "d. Trunk"
+              ],
+          "correctAnswer":3
+      },
+      {
+  
+  "title":"What part of the body helps you move?",
+          "choices":[
+              " a. Eyes",
+          "b. Lungs",
+          "c. Pancreas",
+          "d. Muscles"
+  
+          ],
+          "correctAnswer":4
+      },
+      {
+  
+  "title":"The two holes of the nose are called?",
+          "choices":[
+              "a. Eyelids",
+          "b. Nostrils",
+          "c. Nails",
+          "d. Hair"
+          ],
+          "correctAnswer":2
+      },
+      {
+  "title":"What star shines in the day and provides light?",
+          "choices":[
+           "a. Moon",
+          "b. Venus",
+          "c. Mars",
+          "d. Sun"
+            ],
+          "correctAnswer":4
+      },
+      {
+  
+  "title":"Legs have feet and arms have ___.",
+          "choices":[
+                  "a. Ankles",
+          "b. Pelvis",
+          "c. Hands",
+          "d. Skull"
+            ],
+          "correctAnswer":3
+      },
+      {
+  
+  "title":"Which organ covers the entire body and protects it?",
+          "choices":[
+           " a. Liver",
+          "b. Heart",
+          "c. Skin",
+          "d. Brain"
+            ],
+          "correctAnswer":3
+      },
+      {
+  
+  "title":"Which shape is a round?",
+          "choices":[
+                  "a. Rectangle",
+          "b. Circle",
+          "c. Square",
+          "d. Triangle"
+  
+          ],
+          "correctAnswer":2
+      },
+      {
+  
+  "title":"Who invented the first functional telephone?",
+          "choices":[
+           "       a. Albert Einstein",
+          "b. Nikola Tesla",
+          "c. Thomas Alva Edison",
+          "d. Alexander Graham Bell"
+  
+          ],
+          "correctAnswer":4
+      },
+      {
+  
+  "title":"What is the young one of a cow called?",
+          "choices":[
+                "  a. Puppy",
+          "b. Kitten",
+          "c. Calf",
+          "d. Baby"
+  
+          ],
+          "correctAnswer":3
+          },
+      {
+  
+  "title":"Dark rain clouds can give out lightning and ____.",
+          "choices":[
+                  "a. Thunder",
+          "b. Snow",
+          "c. Sunlight",
+          "d. Wind"
+          ],
+          "correctAnswer":1
+      },
+      {
+  
+  "title":"Your hands have four fingers and a ____.",
+          "choices":[
+                  "a. Knee",
+          "b. Ankle",
+          "c. Elbow",
+          "d. Thumb"
+          ],
+          "correctAnswer":4
+          },
+      {
+  
+  "title":"Which part of the bird lets it fly high in the sky?",
+          "choices":[
+                  "a. Beak",
+          "b. Feet",
+          "c. Wings",
+          "d. Claws"
+          ],
+          "correctAnswer":3
+          }      
+]
