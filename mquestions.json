@@ -9,7 +9,7 @@
               14
           ],
       
-          "correctAnswer":3
+          "correctAnswer":12
           },
              {
       
@@ -22,7 +22,7 @@
               9
           ],
       
-          "correctAnswer":2
+          "correctAnswer":8
           },
     
     
@@ -36,7 +36,7 @@
               9
           ],
       
-          "correctAnswer":4
+          "correctAnswer":9
           },
       
           {
@@ -48,7 +48,7 @@
                2
            ],
        
-           "correctAnswer":3
+           "correctAnswer":4
            },
        
            {
@@ -60,7 +60,7 @@
                9
            ],
        
-           "correctAnswer":1
+           "correctAnswer":7
            },
        
            {
@@ -73,7 +73,7 @@
                9
            ],
        
-           "correctAnswer":1
+           "correctAnswer":7
            },
        
            {
@@ -85,7 +85,7 @@
                11
            ],
        
-           "correctAnswer":1
+           "correctAnswer":2
            },
        
            {
@@ -97,7 +97,7 @@
                3
            ],
        
-           "correctAnswer":3
+           "correctAnswer":5
            },
        
            {
@@ -110,7 +110,7 @@
                5
            ],
        
-           "correctAnswer":4
+           "correctAnswer":5
            },
        
            {
@@ -122,7 +122,7 @@
                10
            ],
        
-           "correctAnswer":3
+           "correctAnswer":9
            },
        
            {
@@ -146,7 +146,7 @@
                7
            ],
        
-           "correctAnswer":3
+           "correctAnswer":5
            },
        
            {
@@ -158,7 +158,7 @@
                3
            ],
        
-           "correctAnswer":3
+           "correctAnswer":4
            },
        
            {
@@ -170,22 +170,10 @@
                4
            ],
        
-           "correctAnswer":2
+           "correctAnswer":3
            },
        
-           {
-            "title": "How do you relate to your maternal grandfather?",
-            "choices":[
-               "Mother’s father",
-               "Mother’s uncle",
-               "Mother’s brother",
-               "Mother’s cousin"
-           ],
-       
-           "correctAnswer":1
-           },
-       
-           {
+            {
             "title": "5 times 2 equal ___",
             "choices":[
                8,
@@ -194,7 +182,7 @@
                10
            ],
        
-           "correctAnswer":4
+           "correctAnswer":10
            },
 {
            "title": "7-1+2",
@@ -205,7 +193,7 @@
                6
            ],
        
-           "correctAnswer":1
+           "correctAnswer":8
            },
 {
            "title": "8-8",
@@ -216,7 +204,7 @@
                4
            ],
        
-           "correctAnswer":2
+           "correctAnswer":0
            },
 
            
@@ -229,7 +217,7 @@
         0
     ],
 
-    "correctAnswer":4
+    "correctAnswer":0
     },
            
     {
@@ -241,7 +229,7 @@
             9
         ],
     
-        "correctAnswer":1
+        "correctAnswer":8
         },
         
         {
@@ -253,7 +241,7 @@
                 20
             ],
         
-            "correctAnswer":1
+            "correctAnswer":10
             },
 
             {
@@ -265,6 +253,6 @@
                     9
                 ],
             
-                "correctAnswer":4
+                "correctAnswer":9
                 }
 ]

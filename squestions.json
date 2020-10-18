@@ -9,191 +9,191 @@
           "Sheep"
       ],
   
-      "correctAnswer":3
+      "correctAnswer":"Duck"
       },
          {
   
   "title":"A male cow is called?",
           "choices":[
-                  "a. Ox",
-                "b. Dog",
-                "c. Sheep",
-                "d. Monkey"
+                  "Ox",
+                "Dog",
+                "Sheep",
+                "Monkey"
   
           ],
-          "correctAnswer":1
+          "correctAnswer":"Ox"
       },
       {
   
   "title":"All animals need food, air, and ____ to survive.",
           "choices":[
-        "a. House",
-          "b. Water",
-          "c. Chocolate",
-          "d. Fruits"
+        "House",
+          "Water",
+          "Chocolate",
+          "Fruits"
   
           ],
-          "correctAnswer":2
+          "correctAnswer":"Water"
       },
       {
   
   
   "title":"Which one is a fur-bearing animal?",
           "choices":[
-           "a. Hen",
-          "b. Crocodile",
-          "c. Tortoise",
-          "d. Cat"
+           "Hen",
+          "Crocodile",
+          "Tortoise",
+          "Cat"
   
           ],
-          "correctAnswer":4
+          "correctAnswer":"Cat"
       },
       {
   
   
   "title":"What is Earth’s only natural satellite?",
           "choices":[
-         "a. Sun",
-          "b. Mars",
-          "c. Venus",
-          "d. Moon"
+         "Sun",
+          "Mars",
+          "Venus",
+          "Moon"
   
           ],
-          "correctAnswer":4
+          "correctAnswer":"Moon"
       },
       {
   
   "title":"The tree has a branch filled with green _____.",
           "choices":[
-           "a. Hair",
-          "b. Root",
-          "c. Leaves",
-          "d. Trunk"
+           "Hair",
+          "Root",
+          "Leaves",
+          "Trunk"
               ],
-          "correctAnswer":3
+          "correctAnswer":"Leaves"
       },
       {
   
   "title":"What part of the body helps you move?",
           "choices":[
-              " a. Eyes",
-          "b. Lungs",
-          "c. Pancreas",
-          "d. Muscles"
+              "Eyes",
+          "Lungs",
+          "Pancreas",
+          "Muscles"
   
           ],
-          "correctAnswer":4
+          "correctAnswer":"Muscles"
       },
       {
   
   "title":"The two holes of the nose are called?",
           "choices":[
-              "a. Eyelids",
-          "b. Nostrils",
-          "c. Nails",
-          "d. Hair"
+              "Eyelids",
+          "Nostrils",
+          "Nails",
+          "Hair"
           ],
-          "correctAnswer":2
+          "correctAnswer":"Nostrils"
       },
       {
   "title":"What star shines in the day and provides light?",
           "choices":[
-           "a. Moon",
-          "b. Venus",
-          "c. Mars",
-          "d. Sun"
+           "Moon",
+          "Venus",
+          "Mars",
+          "Sun"
             ],
-          "correctAnswer":4
+          "correctAnswer":"Sun"
       },
       {
   
   "title":"Legs have feet and arms have ___.",
           "choices":[
-                  "a. Ankles",
-          "b. Pelvis",
-          "c. Hands",
-          "d. Skull"
+                  "Ankles",
+          "Pelvis",
+          "Hands",
+          "Skull"
             ],
-          "correctAnswer":3
+          "correctAnswer":"Hands"
       },
       {
   
   "title":"Which organ covers the entire body and protects it?",
           "choices":[
-           " a. Liver",
-          "b. Heart",
-          "c. Skin",
-          "d. Brain"
+           "Liver",
+          "Heart",
+          "Skin",
+          "Brain"
             ],
-          "correctAnswer":3
+          "correctAnswer":"Skin"
       },
       {
   
   "title":"Which shape is a round?",
           "choices":[
-                  "a. Rectangle",
-          "b. Circle",
-          "c. Square",
-          "d. Triangle"
+                  "Rectangle",
+          "Circle",
+          "Square",
+          "Triangle"
   
           ],
-          "correctAnswer":2
+          "correctAnswer":"Circle"
       },
       {
   
   "title":"Who invented the first functional telephone?",
           "choices":[
-           "       a. Albert Einstein",
-          "b. Nikola Tesla",
-          "c. Thomas Alva Edison",
-          "d. Alexander Graham Bell"
+           "Albert Einstein",
+          "Nikola Tesla",
+          "Thomas Alva Edison",
+          "Alexander Graham Bell"
   
           ],
-          "correctAnswer":4
+          "correctAnswer":"Alexander Graham Bell"
       },
       {
   
   "title":"What is the young one of a cow called?",
           "choices":[
-                "  a. Puppy",
-          "b. Kitten",
-          "c. Calf",
-          "d. Baby"
+                "Puppy",
+          "Kitten",
+          "Calf",
+          "Baby"
   
           ],
-          "correctAnswer":3
+          "correctAnswer":"Calf"
           },
       {
   
   "title":"Dark rain clouds can give out lightning and ____.",
           "choices":[
-                  "a. Thunder",
-          "b. Snow",
-          "c. Sunlight",
-          "d. Wind"
+                  "Thunder",
+          "Snow",
+          "Sunlight",
+          "Wind"
           ],
-          "correctAnswer":1
+          "correctAnswer":"Thunder"
       },
       {
   
   "title":"Your hands have four fingers and a ____.",
           "choices":[
-                  "a. Knee",
-          "b. Ankle",
-          "c. Elbow",
-          "d. Thumb"
+                  "Knee",
+          "Ankle",
+          "Elbow",
+          "Thumb"
           ],
-          "correctAnswer":4
+          "correctAnswer":"Thumb"
           },
       {
   
   "title":"Which part of the bird lets it fly high in the sky?",
           "choices":[
-                  "a. Beak",
-          "b. Feet",
-          "c. Wings",
-          "d. Claws"
+                  "Beak",
+          "Feet",
+          "Wings",
+          "Claws"
           ],
-          "correctAnswer":3
+          "correctAnswer":"Wings"
           }      
 ]

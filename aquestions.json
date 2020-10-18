@@ -1,13 +1,13 @@
 [
     {
     
-        "title": "True or false? Mice live for up to 10 years.",
+        "title": "Mice live for up to 10 years.",
            "choices":[
               "True",
               "False"
           ],
       
-          "correctAnswer":2
+          "correctAnswer":"False"
           },
              {
       
@@ -20,7 +20,7 @@
               "Cat"
           ],
       
-          "correctAnswer":3
+          "correctAnswer":"Tiger"
           },
     
     
@@ -32,7 +32,7 @@
               "NO"
           ],
       
-          "correctAnswer":1
+          "correctAnswer":"Yes"
           },
       
           {
@@ -42,7 +42,7 @@
                "True"
            ],
        
-           "correctAnswer":2
+           "correctAnswer":"True"
            },
        
            {
@@ -54,7 +54,7 @@
                "Cheetah"
            ],
        
-           "correctAnswer":4
+           "correctAnswer":"Cheetah"
            },
        
            {
@@ -67,7 +67,7 @@
                "A rain deer"
            ],
        
-           "correctAnswer":2
+           "correctAnswer":"A female deer"
            },
        
            {
@@ -79,19 +79,19 @@
                "company"
            ],
        
-           "correctAnswer":1
+           "correctAnswer":"Prides"
            },
        
            {
             "title": "How many pairs of wings does a bee have?",
             "choices":[
-               "3",
-               "1",
-               "2",
-               "4"
+               3,
+               1,
+               2,
+               4
            ],
        
-           "correctAnswer":3
+           "correctAnswer":2
            },
        
            {
@@ -104,7 +104,7 @@
                "Elephant"
            ],
        
-           "correctAnswer":4
+           "correctAnswer":"Elephant"
            },
        
            {
@@ -116,7 +116,7 @@
                "Curb"
            ],
        
-           "correctAnswer":3
+           "correctAnswer":"Tadpole"
            },
        
            {
@@ -128,7 +128,7 @@
                "Stead"
            ],
        
-           "correctAnswer":1
+           "correctAnswer":"Sty"
            },
        
            {
@@ -140,7 +140,7 @@
                "Goat"
            ],
        
-           "correctAnswer":3
+           "correctAnswer":"Camel"
            },
        
            {
@@ -152,7 +152,7 @@
                2
            ],
        
-           "correctAnswer":2
+           "correctAnswer":8
            },
        
            {
@@ -164,7 +164,7 @@
                "Younglins"
            ],
        
-           "correctAnswer":2
+           "correctAnswer":"Kids"
            },
        
            {
@@ -176,9 +176,8 @@
                "Fowl"
            ],
        
-           "correctAnswer":3
-           }
-       
-           
+           "correctAnswer":"Rooster"
+    }
+            
                 
 ]
