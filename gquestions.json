@@ -9,7 +9,7 @@
               24
           ],
       
-          "correctAnswer":3
+          "correctAnswer":12
           },
              {
       
@@ -22,7 +22,7 @@
               24
           ],
       
-          "correctAnswer":2
+          "correctAnswer":7
           },
     
     
@@ -36,7 +36,7 @@
               365
           ],
       
-          "correctAnswer":4
+          "correctAnswer":365
           },
       
           {
@@ -48,7 +48,7 @@
                2
            ],
        
-           "correctAnswer":3
+           "correctAnswer":4
            },
        
            {
@@ -60,7 +60,7 @@
                9
            ],
        
-           "correctAnswer":1
+           "correctAnswer":7
            },
        
            {
@@ -73,7 +73,7 @@
                9
            ],
        
-           "correctAnswer":1
+           "correctAnswer":7
            },
        
            {
@@ -85,7 +85,7 @@
                "seeing"
            ],
        
-           "correctAnswer":1
+           "correctAnswer": "Listening/hearing."
            },
        
            {
@@ -97,7 +97,7 @@
                "Monday"
            ],
        
-           "correctAnswer":3
+           "correctAnswer":"Saturday"
            },
        
            {
@@ -110,7 +110,7 @@
                "See"
            ],
        
-           "correctAnswer":4
+           "correctAnswer":"See"
            },
        
            {
@@ -122,7 +122,7 @@
                "Curb"
            ],
        
-           "correctAnswer":3
+           "correctAnswer":"Tadpole"
            },
        
            {
@@ -134,7 +134,7 @@
                "Stead"
            ],
        
-           "correctAnswer":1
+           "correctAnswer":"Sty"
            },
        
            {
@@ -146,7 +146,7 @@
                "Goat"
            ],
        
-           "correctAnswer":3
+           "correctAnswer":"Camel"
            },
        
            {
@@ -158,7 +158,7 @@
                27
            ],
        
-           "correctAnswer":2
+           "correctAnswer":26
            },
        
            {
@@ -170,7 +170,7 @@
                "Post office"
            ],
        
-           "correctAnswer":2
+           "correctAnswer":"Postman"
            },
        
            {
@@ -182,7 +182,7 @@
                "Mother’s cousin"
            ],
        
-           "correctAnswer":1
+           "correctAnswer":"Mother’s father"
            },
        
            {
@@ -194,7 +194,7 @@
                "Nose"
            ],
        
-           "correctAnswer":4
+           "correctAnswer":"Nose"
            },
 {
            "title": "Baby of a dog is called__________",
@@ -216,7 +216,7 @@
                "Houses"
            ],
        
-           "correctAnswer":2
+           "correctAnswer":"Fish"
            },
 
            
@@ -229,7 +229,7 @@
         21
     ],
 
-    "correctAnswer":4
+    "correctAnswer":21
     },
            
     {
@@ -239,7 +239,7 @@
             "Toe"
         ],
     
-        "correctAnswer":1
+        "correctAnswer":"Hair"
         },
         
         {
@@ -251,7 +251,7 @@
                 "Denali"
             ],
         
-            "correctAnswer":1
+            "correctAnswer":"Mount Kilimanjaro"
             },
 
             {
@@ -263,6 +263,6 @@
                     "Mars"
                 ],
             
-                "correctAnswer":4
+                "correctAnswer":"Mars"
                 }
 ]
