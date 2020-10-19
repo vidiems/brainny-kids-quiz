@@ -9,7 +9,7 @@
               14
           ],
       
-          "correctAnswer":12
+          "correctAnswer":2
           },
              {
       
@@ -22,7 +22,7 @@
               9
           ],
       
-          "correctAnswer":8
+          "correctAnswer":1
           },
     
     
@@ -36,7 +36,7 @@
               9
           ],
       
-          "correctAnswer":9
+          "correctAnswer":3
           },
       
           {
@@ -48,7 +48,7 @@
                2
            ],
        
-           "correctAnswer":4
+           "correctAnswer":2
            },
        
            {
@@ -60,7 +60,7 @@
                9
            ],
        
-           "correctAnswer":7
+           "correctAnswer":0
            },
        
            {
@@ -73,7 +73,7 @@
                9
            ],
        
-           "correctAnswer":7
+           "correctAnswer":0
            },
        
            {
@@ -85,7 +85,7 @@
                11
            ],
        
-           "correctAnswer":2
+           "correctAnswer":0
            },
        
            {
@@ -97,7 +97,7 @@
                3
            ],
        
-           "correctAnswer":5
+           "correctAnswer":2
            },
        
            {
@@ -110,7 +110,7 @@
                5
            ],
        
-           "correctAnswer":5
+           "correctAnswer":3
            },
        
            {
@@ -122,11 +122,11 @@
                10
            ],
        
-           "correctAnswer":9
+           "correctAnswer":2
            },
        
            {
-            "title": "4-3=__",
+            "title": "4 - 3 =__",
             "choices":[
                1,
                7,
@@ -134,11 +134,11 @@
                2
            ],
        
-           "correctAnswer":1
+           "correctAnswer":0
            },
        
            {
-            "title": "JAMES AS A CLOCK IN EVERY ROOM EXCEPT FOR ONE. HE HAS 6 ROOMS IN HIS HOUSE. HOW MANY CLOCKS DOES HE HAVE?  ",
+            "title": "JAMES HAS A CLOCK IN EVERY ROOM EXCEPT FOR ONE. HE HAS 6 ROOMS IN HIS HOUSE. HOW MANY CLOCKS DOES HE HAVE?  ",
             "choices":[
                6,
                4,
@@ -158,7 +158,7 @@
                3
            ],
        
-           "correctAnswer":4
+           "correctAnswer":3
            },
        
            {
@@ -170,7 +170,7 @@
                4
            ],
        
-           "correctAnswer":3
+           "correctAnswer":1
            },
        
             {
@@ -182,7 +182,7 @@
                10
            ],
        
-           "correctAnswer":10
+           "correctAnswer":3
            },
 {
            "title": "7-1+2",
@@ -193,7 +193,7 @@
                6
            ],
        
-           "correctAnswer":8
+           "correctAnswer":0
            },
 {
            "title": "8-8",
@@ -204,7 +204,7 @@
                4
            ],
        
-           "correctAnswer":0
+           "correctAnswer":1
            },
 
            
@@ -217,7 +217,7 @@
         0
     ],
 
-    "correctAnswer":0
+    "correctAnswer":3
     },
            
     {
@@ -229,7 +229,7 @@
             9
         ],
     
-        "correctAnswer":8
+        "correctAnswer":0
         },
         
         {
@@ -241,7 +241,7 @@
                 20
             ],
         
-            "correctAnswer":10
+            "correctAnswer":0
             },
 
             {
@@ -253,6 +253,6 @@
                     9
                 ],
             
-                "correctAnswer":9
+                "correctAnswer":3
                 }
 ]

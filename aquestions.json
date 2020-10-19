@@ -7,7 +7,7 @@
               "False"
           ],
       
-          "correctAnswer":"False"
+          "correctAnswer":1
           },
              {
       
@@ -20,7 +20,7 @@
               "Cat"
           ],
       
-          "correctAnswer":"Tiger"
+          "correctAnswer":2
           },
     
     
@@ -32,7 +32,7 @@
               "NO"
           ],
       
-          "correctAnswer":"Yes"
+          "correctAnswer":0
           },
       
           {
@@ -42,7 +42,7 @@
                "True"
            ],
        
-           "correctAnswer":"True"
+           "correctAnswer":1
            },
        
            {
@@ -54,7 +54,7 @@
                "Cheetah"
            ],
        
-           "correctAnswer":"Cheetah"
+           "correctAnswer":3
            },
        
            {
@@ -67,7 +67,7 @@
                "A rain deer"
            ],
        
-           "correctAnswer":"A female deer"
+           "correctAnswer":1
            },
        
            {
@@ -79,7 +79,7 @@
                "company"
            ],
        
-           "correctAnswer":"Prides"
+           "correctAnswer":0
            },
        
            {
@@ -104,7 +104,7 @@
                "Elephant"
            ],
        
-           "correctAnswer":"Elephant"
+           "correctAnswer":3
            },
        
            {
@@ -116,7 +116,7 @@
                "Curb"
            ],
        
-           "correctAnswer":"Tadpole"
+           "correctAnswer":2
            },
        
            {
@@ -128,7 +128,7 @@
                "Stead"
            ],
        
-           "correctAnswer":"Sty"
+           "correctAnswer":0
            },
        
            {
@@ -140,7 +140,7 @@
                "Goat"
            ],
        
-           "correctAnswer":"Camel"
+           "correctAnswer":2
            },
        
            {
@@ -152,7 +152,7 @@
                2
            ],
        
-           "correctAnswer":8
+           "correctAnswer":1
            },
        
            {
@@ -164,7 +164,7 @@
                "Younglins"
            ],
        
-           "correctAnswer":"Kids"
+           "correctAnswer":1
            },
        
            {
@@ -176,7 +176,7 @@
                "Fowl"
            ],
        
-           "correctAnswer":"Rooster"
+           "correctAnswer":2
     }
             
                 
