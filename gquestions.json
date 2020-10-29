@@ -9,7 +9,7 @@
               24
           ],
       
-          "correctAnswer":12
+          "correctAnswer":2
           },
              {
       
@@ -22,7 +22,7 @@
               24
           ],
       
-          "correctAnswer":7
+          "correctAnswer":1
           },
     
     
@@ -36,7 +36,7 @@
               365
           ],
       
-          "correctAnswer":365
+          "correctAnswer":3
           },
       
           {
@@ -48,7 +48,7 @@
                2
            ],
        
-           "correctAnswer":4
+           "correctAnswer":2
            },
        
            {
@@ -60,7 +60,7 @@
                9
            ],
        
-           "correctAnswer":7
+           "correctAnswer":0
            },
        
            {
@@ -73,7 +73,7 @@
                9
            ],
        
-           "correctAnswer":7
+           "correctAnswer":0
            },
        
            {
@@ -85,7 +85,7 @@
                "seeing"
            ],
        
-           "correctAnswer": "Listening/hearing."
+           "correctAnswer": 0
            },
        
            {
@@ -97,7 +97,7 @@
                "Monday"
            ],
        
-           "correctAnswer":"Saturday"
+           "correctAnswer":2
            },
        
            {
@@ -110,7 +110,7 @@
                "See"
            ],
        
-           "correctAnswer":"See"
+           "correctAnswer":3
            },
        
            {
@@ -122,7 +122,7 @@
                "Curb"
            ],
        
-           "correctAnswer":"Tadpole"
+           "correctAnswer":2
            },
        
            {
@@ -134,7 +134,7 @@
                "Stead"
            ],
        
-           "correctAnswer":"Sty"
+           "correctAnswer":0
            },
        
            {
@@ -146,7 +146,7 @@
                "Goat"
            ],
        
-           "correctAnswer":"Camel"
+           "correctAnswer":2
            },
        
            {
@@ -158,7 +158,7 @@
                27
            ],
        
-           "correctAnswer":26
+           "correctAnswer":1
            },
        
            {
@@ -170,7 +170,7 @@
                "Post office"
            ],
        
-           "correctAnswer":"Postman"
+           "correctAnswer":0
            },
        
            {
@@ -182,7 +182,7 @@
                "Mother’s cousin"
            ],
        
-           "correctAnswer":"Mother’s father"
+           "correctAnswer":0
            },
        
            {
@@ -194,7 +194,7 @@
                "Nose"
            ],
        
-           "correctAnswer":"Nose"
+           "correctAnswer":3
            },
 {
            "title": "Baby of a dog is called__________",
@@ -205,7 +205,7 @@
                "Baby dog"
            ],
        
-           "correctAnswer":1
+           "correctAnswer":0
            },
 {
            "title": "Trout, carp and, barracuda are names of what?",
@@ -216,7 +216,7 @@
                "Houses"
            ],
        
-           "correctAnswer":"Fish"
+           "correctAnswer":1
            },
 
            
@@ -229,7 +229,7 @@
         21
     ],
 
-    "correctAnswer":21
+    "correctAnswer":3
     },
            
     {
@@ -239,7 +239,7 @@
             "Toe"
         ],
     
-        "correctAnswer":"Hair"
+        "correctAnswer":0
         },
         
         {
@@ -251,7 +251,7 @@
                 "Denali"
             ],
         
-            "correctAnswer":"Mount Kilimanjaro"
+            "correctAnswer":0
             },
 
             {
@@ -263,6 +263,6 @@
                     "Mars"
                 ],
             
-                "correctAnswer":"Mars"
+                "correctAnswer":3
                 }
 ]
