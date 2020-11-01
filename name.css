@@ -428,8 +428,6 @@ background: rgba(8, 8, 9, 0.6);
   width: 15em;
   padding:0.5em;
   cursor: pointer;
-  display:inline-block;
-  position:relative;
   left: 50px;
   top: 300px;
   text-align: center;
