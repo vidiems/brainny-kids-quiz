@@ -528,10 +528,10 @@ background: rgba(8, 8, 9, 0.6);
     font-style: normal;
 }
 .cat-menu{
-    position: sticky;
     padding:0;
     margin:50px auto;
     width: 500px;
+    position:relative;
     border-radius: 50px;
 }
 .cat-menu li{
