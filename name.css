@@ -401,7 +401,7 @@ background: rgba(8, 8, 9, 0.6);
 
 .button {
   position: relative;
-  cursor: pointer
+  cursor: pointer;
   left: 610px;
   top: 849px;
   width: 250px;
