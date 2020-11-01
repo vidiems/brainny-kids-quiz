@@ -3,6 +3,24 @@
 <head>
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap" rel="stylesheet" />
 	<link href="./name.css" rel="stylesheet" />
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+/* Extra small devices (phones, less than 768px) */
+    /* No media query since this is the default in Bootstrap */
+
+    /* Small devices (tablets, 768px and up) */
+    @media (min-width: @screen-sm-min) { ... }
+
+    /* Medium devices (desktops, 992px and up) */
+    @media (min-width: @screen-md-min) { ... }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) { ... }
+
+@media (max-width: @screen-xs-max) { ... }
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { ... }
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) { ... }
+@media (min-width: @screen-lg-min) { ... }
 	<title>Categories</title>
 </head>
 <body>
