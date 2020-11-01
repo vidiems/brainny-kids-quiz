@@ -532,6 +532,7 @@ background: rgba(8, 8, 9, 0.6);
     margin:50px auto;
     width: 500px;
     border-radius: 50px;
+    position:sticky;
 }
 .cat-menu li{
     width: 500px;
